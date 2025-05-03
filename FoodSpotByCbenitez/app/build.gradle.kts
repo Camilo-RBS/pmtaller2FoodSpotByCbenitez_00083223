@@ -56,7 +56,7 @@ dependencies {
     implementation(libs.ui.tooling)
     implementation(libs.coil.compose)
     implementation(libs.androidx.ui.text.android)
-
+    implementation(libs.androidx.material.icons.core)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
